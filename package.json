@@ -1,0 +1,11 @@
+{
+  "name": "tiniest-blockchain",
+  "version": "1.0.0",
+  "description": "Tiniest Blockchain in Node.js",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
